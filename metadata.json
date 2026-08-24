@@ -1,0 +1,6 @@
+{
+  "name": "Tickey!",
+  "description": "A classic Tic-Tac-Toe game built with React and Tailwind CSS. Now playable offline! Challenge a friend and see who can get three in a row first!",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}

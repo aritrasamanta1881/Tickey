@@ -1,0 +1,16 @@
+{
+  "name": "Tickey!",
+  "short_name": "Tickey!",
+  "description": "A classic Tic-Tac-Toe game that works offline. Challenge a friend and see who can get three in a row first!",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
